@@ -4,4 +4,4 @@ applications:
   timeout: 400
   host: demohelloapp
   random-route: true
-  path: ./target/demoSpring1-0.0.1-SNAPSHOT.war
+  path: demoSpring1/target/demoSpring1-0.0.1-SNAPSHOT.war
