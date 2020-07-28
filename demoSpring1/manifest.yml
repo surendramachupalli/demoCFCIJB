@@ -2,6 +2,6 @@ applications:
 - name: helloworld
   memory: 1024M
   timeout: 400
-  host: demohelloapp
+  host: suriapp1
   random-route: true
   path: demoSpring1/target/demoSpring1-0.0.1-SNAPSHOT.war
